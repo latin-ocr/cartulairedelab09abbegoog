@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./cartulairedelab09abbegoog_0501.png"; bbox 0 0 4442 5769; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1310 612 3534 694">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1310 612 3534 694">
+     <span class='ocr_line' id='line_1_1' title="bbox 1310 612 3534 694; baseline -0.002 0"><span class='ocrx_word' id='word_1_1' title='bbox 1310 612 1949 694; x_wconf 83' lang='lat' dir='ltr'>MONASTERII</span> <span class='ocrx_word' id='word_1_2' title='bbox 2004 614 2135 690; x_wconf 88' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_3' title='bbox 2192 613 2829 692; x_wconf 82' lang='lat' dir='ltr'>BELLOLOCO.</span> <span class='ocrx_word' id='word_1_4' title='bbox 3406 622 3534 693; x_wconf 84' lang='lat'>181</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1961 1029 2284 1105">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1961 1029 2284 1105">
+     <span class='ocr_line' id='line_1_2' title="bbox 1961 1029 2284 1105; baseline -0.006 0"><span class='ocrx_word' id='word_1_5' title='bbox 1961 1029 2284 1105; x_wconf 85' lang='lat' dir='ltr'><strong>CXXIX.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 917 1212 3246 1322">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 917 1212 3246 1322">
+     <span class='ocr_line' id='line_1_3' title="bbox 917 1212 3246 1322; baseline -0.003 -20"><span class='ocrx_word' id='word_1_6' title='bbox 917 1233 925 1241; x_wconf 53' lang='lat'><strong>⁶</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1003 1239 1266 1321; x_wconf 89' lang='lat' dir='ltr'>[Donum</span> <span class='ocrx_word' id='word_1_8' title='bbox 1296 1238 1458 1322; x_wconf 88' lang='lat' dir='ltr'><strong>quod</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1487 1237 1751 1298; x_wconf 81' lang='lat' dir='ltr'><strong>fecerunt</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1781 1236 2107 1298; x_wconf 79' lang='lat' dir='ltr'>Blandinus</span> <span class='ocrx_word' id='word_1_11' title='bbox 2138 1249 2195 1298; x_wconf 87' lang='lat' dir='ltr'>et</span> <span class='ocrx_word' id='word_1_12' title='bbox 2223 1212 2543 1298; x_wconf 55' lang='lat' dir='ltr'>Gerberius</span> <span class='ocrx_word' id='word_1_13' title='bbox 2570 1259 2676 1321; x_wconf 84' lang='lat' dir='ltr'>pro</span> <span class='ocrx_word' id='word_1_14' title='bbox 2717 1240 2907 1298; x_wconf 82' lang='lat' dir='ltr'>anima</span> <span class='ocrx_word' id='word_1_15' title='bbox 2938 1238 3246 1320; x_wconf 78' lang='lat' dir='ltr'><strong>Calstoni.]</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
